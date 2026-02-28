@@ -565,7 +565,7 @@ export default function LLLWallpaperPage() {
             </span>
           </div>
           <p className="text-xs text-gray-700">
-            © {new Date().getFullYear()} LLLWallpaper. Open source under MIT License.
+            © {new Date().getFullYear()} LLLWallpaper.
           </p>
           <div className="flex items-center gap-6 text-xs text-gray-600">
             <a href="https://github.com/TheSkyFalls-dot" className="hover:text-gray-400 transition-colors">GitHub</a>
